@@ -1,6 +1,6 @@
 # COMP2042_CW_hcyma4
 
-##Changes
+## Changes
 - Addition of a main menu screen
     - The main menu screen contains a subscene with basic information on the game.
     - Transition animation to show the subscene containing the information
