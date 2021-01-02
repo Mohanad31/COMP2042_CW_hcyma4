@@ -15,3 +15,8 @@
 - Adjusted the background image 
     - Added a "Score" tab and adjusted the positon of the scores accordingly
     - Resized the image and makde it homogenous with the color choice of the assets. For example the river was a different shade of blue than the turtles which was aesthetically unpleasant.
+
+
+## Running the program
+- To run the program, import the program to Eclipse and configure it to use JavaFX. Then, run it with the following VM Arguments
+    `--module-path "<Location of the JavaFX lib folder>" --add-modules=ALL-MODULE-PATH`
